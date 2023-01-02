@@ -1,0 +1,53 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Geography",
+            "slug": "geography",
+            "description": "Challenge your skills in geography by taking this quiz",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "What is the biggest city of TOGO ?",
+                    "proposals": [
+                        "Kara",
+                        "Lome",
+                        "Sokode",
+                        "Kpalime"
+                    ],
+                    "answer": "Lome"
+                },
+                {
+                    "id": 2,
+                    "question": "what is the capital of Brazil ?",
+                    "proposals": [
+                        "Rio de Janeiro",
+                        "Sao Paulo",
+                        "Salvador",
+                        "Brasilia"
+                    ],
+                    "answer": "Brasilia"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Sports",
+            "slug": "sports",
+            "description": "Are you a sports fan ? Test your knowledges in sports with this quiz",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "Which football player have won the most Ballon d'Or ?",
+                    "proposals": [
+                        "Christiano Ronaldo",
+                        "Pelé",
+                        "Lionel Messi",
+                        "Diego Maradona"
+                    ],
+                    "answer": "Lionel Messi"
+                }
+            ]
+        }
+    ]
+}
